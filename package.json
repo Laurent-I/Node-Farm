@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "nodemon": "^2.0.16",
+    "slugify": "^1.6.5"
+  },
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "name": "starter-node-farm",
+  "version": "1.0.0",
+  "description": "Learning Node.js",
+  "main": "index.js",
+  "author": "Irakarama Laurent",
+  "license": "ISC"
+}
